@@ -1,0 +1,3 @@
+playerLives,2
+useUserPrefs,False
+gameTimer,2
